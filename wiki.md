@@ -10,7 +10,7 @@ Jump to a page: <br>
 
 
 
-# Faq
+# FAQ
 Frequenty Asked Questions
 
 Does Pro Swapper Ban?
