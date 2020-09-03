@@ -36,8 +36,9 @@ You swapped too many items. Try swapping 1 item at a time
 # Swapper Not Opening
 
 If the swapper isn't opening:
-Turn off your anti virus, turn off real time protection from Windows security
-
+Turn off your anti virus, turn off real time protection from Windows security.
+If the swapper is still not opening try putting it in a different folder (or your desktop)
+If there is a .NET error or something like that try installing the .NET framework [here](hhttps://dotnet.microsoft.com/download/dotnet-framework/net472 "Microsoft's .NET 4.7.2 framework")
 
 # Stuck on starting
 If it's stuck on starting:
@@ -47,5 +48,3 @@ Restart the swapper but if that doesn't work try the following:
 2. Open Pro Swapper
 3. Goto the settings tab
 4. Click "Mark items as off"
-You can only swap 1 skin & 1 pickaxe at the same time. If you want to use backblings you must only swap a backbling.
-If you're using the skins at the bottom (the different section) you must only swap that skin
