@@ -6,6 +6,7 @@ Jump to a page: <br>
 [Frequently Asked Questions](#faq) <br>
 [How To Use Pro Swapper](#howto) <br>
 [What can I swap?](#swap) <br>
+[Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper Not Opening](#Swapper Not Opening) <br>
 [Swapper stuck on starting](#Stuck on starting) <br>
 
