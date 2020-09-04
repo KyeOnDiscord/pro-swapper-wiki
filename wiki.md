@@ -3,7 +3,7 @@ Pro Swapper Wiki. Learn how to use Pro Swapper.
 
 
 Jump to a page: <br>
-[Frequently Asked Questions](#faq) <br>
+[FAQ (Frequently Asked Questions)](#faq) <br>
 [How To Use Pro Swapper](#howto) <br>
 [No Kick Guide](#no-kick-guide) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
