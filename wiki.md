@@ -56,6 +56,9 @@ It's **recommended** to swap **1** skin and **1** pickaxe at max
 If you want to swap an emote you should swap it by itself, same with backblings
 You can experiment to see which items and how many of them kick at a certain point but the guidelines above should be fine.
 
+
+**You must not use lobby items or the lobby swapper at the same time as the ingame swapper or the error below will occur**
+
 ![You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/too%20many%20swapped%20error.png)
 
 
