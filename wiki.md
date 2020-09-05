@@ -58,3 +58,12 @@ If you want to swap an emote you should swap it by itself, same with backblings
 You can experiment to see which items and how many of them kick at a certain point but the guidelines above should be fine.
 
 ![You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/too%20many%20swapped%20error.png)
+
+
+
+
+
+**Emote Error**
+
+This error occurs when you swap an emote and when you ready up it shows up with this message and closes Fortnite. This is because you put the **swapped** emote into your main 6 locker emotes. **DO NOT** put the swapped emote into your locker, when you go ingame you have to scroll and find the swapped emote.
+![](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/emote%20swap%20error.png)
