@@ -5,7 +5,7 @@ Pro Swapper Wiki. Learn how to use Pro Swapper.
 Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
 [How To Use Pro Swapper](#howto) <br>
-[No Kick Guide](#no-kick-guide) <br>
+[How To Fix Errors](#errors) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper stuck on starting](#Stuck-on-starting) <br>
 
@@ -44,4 +44,4 @@ Restart the swapper but if that doesn't work try the following:
 3. Goto the settings tab
 4. Click "Mark items as off" (This marks all items as not converted as Verifying Fortnite makes your game files before you used the swapper)
 
-# No Kick Guide
+# Errors
