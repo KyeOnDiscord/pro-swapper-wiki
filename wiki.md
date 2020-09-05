@@ -51,7 +51,7 @@ Restart the swapper but if that doesn't work try the following:
 This error which kicks you from the match with the message: "You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues"
 
 This message means you swapped **too** many items.
-<h3>Swapping Guidelines</h3>
+### Swapping Guidelines
 It's **recommended** to swap **1** skin and **1** pickaxe at max
 If you want to swap an emote you should swap it by itself, same with backblings
 You can experiment to see which items and how many of them kick at a certain point but the guidelines above should be fine.
