@@ -30,6 +30,9 @@ The swapper is only available for Windows. (Most recommended on Windows 10)
 Why do skins have no head?
 Some skin's have no head as the method we use to swap skins limits the amount of parts we can swap.
 
+Why don't backblings work with skins / Why are backblings invisible on skins?
+It's just how skin swapping works, there is no way to fix this, however the skins which show as default in lobby have their backbling ingame.
+
 # Swapper Not Opening
 
 If the swapper isn't opening:
