@@ -4,7 +4,6 @@ Pro Swapper Wiki. Learn how to use Pro Swapper.
 
 Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
-[How To Use Pro Swapper](#howto) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper stuck on starting](#Stuck-on-starting) <br>
 
