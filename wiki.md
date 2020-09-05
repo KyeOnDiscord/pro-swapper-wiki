@@ -51,13 +51,20 @@ Restart the swapper but if that doesn't work try the following:
 This error which kicks you from the match with the message: "You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues"
 
 This message means you swapped **too** many items.
-
+<h3>Swapping Guidelines</h3>
 It's **recommended** to swap **1** skin and **1** pickaxe at max
 If you want to swap an emote you should swap it by itself, same with backblings
 You can experiment to see which items and how many of them kick at a certain point but the guidelines above should be fine.
 
 
 **You must not use lobby items or the lobby swapper at the same time as the ingame swapper or the error below will occur**
+
+If you're unsure on what to do, do the following if you're still getting kicked out:
+1. Verify Fortnite from Epic Games Launcher (Learn how [here](https://www.youtube.com/watch?v=Ni7eQxQhQr0))
+2. Open Pro Swapper
+3. Goto the settings tab
+4. Click "Mark items as off" (This marks all items as not converted as Verifying Fortnite makes your game files before you used the swapper)
+5. Swap the item(s) you want with the guidelines above
 
 ![You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/too%20many%20swapped%20error.png)
 
