@@ -6,8 +6,7 @@ Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper stuck on starting](#Stuck-on-starting) <br>
-
-
+[Pro Swapper Video Tutorial](https://youtu.be/xBv5cn05MiY)
 [How To Fix Kick/Crash Fortnite Errors](#errors) <br>
 
 
