@@ -61,6 +61,8 @@ You can experiment to see which items and how many of them kick at a certain poi
 
 **You must not use lobby items or the lobby swapper at the same time as the ingame swapper or the error below will occur**
 
+**DO NOT USE CUSTOM PAKS & CONVERT AN ITEM AT THE SAME TIME, OTHERWISE THE ERROR BELOW WILL OCCUR**
+
 If you're unsure on what to do, do the following if you're still getting kicked out:
 1. Verify Fortnite from Epic Games Launcher (Learn how [here](https://www.youtube.com/watch?v=Ni7eQxQhQr0))
 2. Open Pro Swapper
