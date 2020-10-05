@@ -37,7 +37,7 @@ It's just how skin swapping works, there is no way to fix this, however the skin
 If the swapper isn't opening:
 Turn off your anti virus, turn off real time protection from Windows security.
 If the swapper is still not opening try putting it in a different folder (or your desktop)
-If there is a .NET error or something like that try installing the .NET framework [here](https://dotnet.microsoft.com/download/dotnet-framework/net472 "Microsoft's .NET 4.7.2 framework")
+If there is a .NET error or something like that try installing the 4.6.1 .NET framework [here](https://dotnet.microsoft.com/download/dotnet-framework/net461 "Microsoft's .NET 4.6.1 framework")
 
 # Stuck on starting
 If it's stuck on starting:
