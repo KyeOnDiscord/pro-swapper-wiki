@@ -7,7 +7,7 @@ Jump to a page: <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper stuck on starting](#Stuck-on-starting) <br>
 [Pro Swapper Video Tutorial](https://youtu.be/xBv5cn05MiY) <br>
-[How To Fix Kick/Crash Fortnite Errors](#errors) <br>
+[How To Fix Crash Fortnite Errors](#errors) <br>
 
 
 
@@ -25,12 +25,6 @@ The swapper is client sided which means that only you are able to see it because
 
 Does Pro Swapper work on PS4, Xbox, Nintendo Switch, Mobile?
 The swapper is only available for Windows. (Most recommended on Windows 10)
-
-Why do skins have no head?
-Some skin's have no head as the method we use to swap skins limits the amount of parts we can swap.
-
-Why don't backblings work with skins / Why are backblings invisible on skins?
-It's just how skin swapping works, there is no way to fix this, however the skins which show as default in lobby have their backbling ingame.
 
 # Swapper Not Opening
 
@@ -50,33 +44,9 @@ Restart the swapper but if that doesn't work try the following:
 
 # Errors
 
-This error which kicks you from the match with the message: "You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues"
-
-This message means you swapped **too** many items.
-### Swapping Guidelines
-It's **recommended** to swap **1** skin and **1** pickaxe at max
-If you want to swap an emote you should swap it by itself, same with backblings
-You can experiment to see which items and how many of them kick at a certain point but the guidelines above should be fine.
-
-
-**You must not use lobby items or the lobby swapper at the same time as the ingame swapper or the error below will occur**
-
-**DO NOT USE CUSTOM PAKS & CONVERT AN ITEM AT THE SAME TIME, OTHERWISE THE ERROR BELOW WILL OCCUR**
-
-If you're unsure on what to do, do the following if you're still getting kicked out:
+If Fortnite is crashing / not opening you can try verifying Fortnite:
 1. Verify Fortnite from Epic Games Launcher (Learn how [here](https://www.youtube.com/watch?v=Ni7eQxQhQr0))
 2. Open Pro Swapper
 3. Goto the settings tab
 4. Click "Mark items as off" (This marks all items as not converted as Verifying Fortnite makes your game files before you used the swapper)
 5. Swap the item(s) you want with the guidelines above
-
-![You were removed from the match due to erros in your installation. Please verify or reinstall Fortnite to correct these issues](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/too%20many%20swapped%20error.png)
-
-
-
-
-
-**Emote Error**
-
-This error occurs when you swap an emote and when you ready up it shows up with this message and closes Fortnite. This is because you put the **swapped** emote into your main 6 locker emotes. **DO NOT** put the swapped emote into your locker, when you go ingame you have to scroll and find the swapped emote.
-![](https://github.com/ProMasterBoy/pro-swapper-wiki/raw/master/emote%20swap%20error.png)
