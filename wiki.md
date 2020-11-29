@@ -6,7 +6,7 @@ Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
 [Swapper stuck on starting](#Stuck-on-starting) <br>
-[Pro Swapper Video Tutorial](https://youtu.be/xBv5cn05MiY) <br>
+[Pro Swapper Video Tutorial](https://youtu.be/vS4E2emrK0s) <br>
 [How To Fix Crash Fortnite Errors](#errors) <br>
 
 
@@ -33,6 +33,8 @@ Turn off your anti virus, turn off real time protection from Windows security.
 If the swapper is still not opening try putting it in a different folder (or your desktop)
 If there is a .NET error or something like that try installing the 4.6.1 .NET framework [here](https://dotnet.microsoft.com/download/dotnet-framework/net461 "Microsoft's .NET 4.6.1 framework")
 
+If you get a network error try using a vpn. Proton VPN is a good free vpn.
+
 # Stuck on starting
 If it's stuck on starting:
 Restart the swapper but if that doesn't work try the following:
@@ -50,3 +52,12 @@ If Fortnite is crashing / not opening you can try verifying Fortnite:
 3. Goto the settings tab
 4. Click "Mark items as off" (This marks all items as not converted as Verifying Fortnite makes your game files before you used the swapper)
 5. Swap the item(s) you want with the guidelines above
+
+
+
+Kicked Out of game:
+
+![](https://github.com/ProMasterBoy/pro-swapper-wiki/blob/master/too%20many%20swapped%20error.png?raw=true)
+
+
+If you get this error it means you swapped too many items
