@@ -2,6 +2,9 @@
 Pro Swapper Wiki. Learn how to use Pro Swapper. 
 
 
+## Discord Server
+<a href="https://discord.gg/proswapper"><img src="https://discord.com/api/guilds/703033424541384784/widget.png?style=banner2"></a>
+
 Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
 [Swapper Not Opening](#swapper-not-opening) <br>
@@ -29,7 +32,7 @@ The swapper is only available for Windows. (Most recommended on Windows 10)
 # Swapper Not Opening
 
 If the swapper isn't opening:
-Turn off your anti virus, turn off real time protection from Windows security.
+Turn off your anti virus, turn off real time protection from Windows security. (Most people have their anti virus on)
 If the swapper is still not opening try putting it in a different folder (or your desktop)
 If there is a .NET error or something like that try installing the 4.6.1 .NET framework [here](https://dotnet.microsoft.com/download/dotnet-framework/net461 "Microsoft's .NET 4.6.1 framework")
 
