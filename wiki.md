@@ -3,7 +3,7 @@ Pro Swapper Wiki. Learn how to use Pro Swapper.
 
 
 ## Discord Server
-<a href="https://discord.gg/proswapper"><img src="https://discord.com/api/guilds/703033424541384784/widget.png?style=banner2"></a>
+<a href="https://discord.gg/X3Bg3JwPTC"><img src="https://discord.com/api/guilds/703033424541384784/widget.png?style=banner2"></a>
 
 Jump to a page: <br>
 [FAQ (Frequently Asked Questions)](#faq) <br>
