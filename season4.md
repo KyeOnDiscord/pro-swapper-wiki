@@ -9,9 +9,11 @@ Pro Swapper Season 4 is swapping custom skins/items using a private server (Auro
 
 Links:
 
-[Aurora Dashboard](https://aurorafn.dev/ "Dashboard for Aurora")
- 
-[Aurora Download](https://cdn.aurorafn.dev/files/Aurora.zip "Aurora Download")
+
+
+Aurora has been Shutdown so we recommend using Neonite
+
+https://github.com/NeoniteDev/neonitev2/releases/tag/1.0
 
 [Fortnite 14.20 Download](https://gofile.io/d/nQhhIA "Fortnite 14.20 Download") (Thanks Wslt)
 
@@ -41,15 +43,11 @@ Now click launch and Enjoy!
 
 Can I join other people?
 
-Yes Aurora supports joining other people's parties
-
-Can other people see my skin?
-
-Not unless they have Pro Swapper as well and swapped the same things.
+No, as the Fortnite server is hosted locally on your machine.
 
 Can I go ingame?
 
-No, Aurora doesn't support going ingame.
+Neonite doesn't support matchmaking
 
 Do I have to download 14.20?
 
