@@ -5,15 +5,11 @@
 <a href="https://discord.gg/X3Bg3JwPTC"><img src="https://discord.com/api/guilds/703033424541384784/widget.png?style=banner2"></a>
 
 
-Pro Swapper Season 4 is swapping custom skins/items using a private server (Aurora) and the Fortnite 14.20 (Season 4) client.
+Pro Swapper Season 4 is swapping custom skins/items using a private server (Neonite) and the Fortnite 14.20 (Season 4) client.
 
 Links:
 
-
-
-Aurora has been Shutdown so we recommend using Neonite
-
-https://github.com/NeoniteDev/neonitev2/releases/tag/1.0
+https://github.com/kyeondiscord/neonitev2
 
 [Fortnite 14.20 Download](https://gofile.io/d/nQhhIA "Fortnite 14.20 Download") (Thanks Wslt)
 
@@ -29,11 +25,13 @@ https://github.com/NeoniteDev/neonitev2/releases/tag/1.0
 
 
 
-Make sure you have Fortnite 14.20 (Season 4), The Aurora Fortnite Launcher (and an Aurora account, make one at [here](https://aurorafn.dev/ "Dashboard for Aurora") and Pro Swapper Season 4 (and the Pro Swapper key)
+Make sure you have Fortnite 14.20 (Season 4), The Fortnite Launcher (comes with Neonite) and Pro Swapper Season 4 (and the Pro Swapper key).
+
+Make sure you have node installed (install it [here](https://nodejs.org/en/download/)) and click install.bat. Now open run.bat
 
 
 
-Launch Pro Swapper Season 4 and swap whatever items you want and you can swap as many as you want, just click on an item and hit "Convert". Then just open Aurora's Fortnite Launcher and make sure you have your Fortnite 14.20 Path Selected (Click settings in Aurora to add the path).
+Launch Pro Swapper Season 4 and swap whatever items you want and you can swap as many as you want, just click on an item and hit "Convert". Then just open Neonite's Fortnite Launcher and make sure you have your Fortnite 14.20 Path Selected.
 
 Now click launch and Enjoy!
 
