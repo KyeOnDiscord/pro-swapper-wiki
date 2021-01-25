@@ -13,6 +13,12 @@ https://github.com/kyeondiscord/neonitev2
 
 [Fortnite 14.20 Download](https://gofile.io/d/nQhhIA "Fortnite 14.20 Download") (Thanks Wslt)
 
+If the link above doesn't work you can download it via the Manifest [here](https://github.com/Kyiro/Fortnite-ManifestsArchive/releases/tag/1.1) (Tutorial for that [here](https://github.com/Kyiro/Fortnite-ManifestsArchive/blob/master/README.md))
+
+
+
+
+
 [Pro Swapper Season 4 Download](https://link-to.net/86737/proswapperseason4 "Download Pro Swapper Season 4")
 
 [Download Pro Swapper Key](https://bst.gg/ya0w)
