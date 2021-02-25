@@ -9,21 +9,18 @@ Pro Swapper Season 4 is swapping custom skins/items using a private server (Neon
 
 Links:
 
-https://github.com/kyeondiscord/neonitev2
+[Private Server Download (Neonite)](https://github.com/Pro-Swapper/neonitev2/releases/tag/1.0)
 
-[Fortnite 14.20 Download](https://gofile.io/d/nQhhIA "Fortnite 14.20 Download") (Thanks Wslt)
+[Easy Installer **__Download__**](https://github.com/Kyiro/Fortnite-ManifestsArchive/releases)
 
-If the link above doesn't work you can download it via the Manifest [here](https://github.com/Kyiro/Fortnite-ManifestsArchive/releases/tag/1.1) (Tutorial for that [here](https://github.com/Kyiro/Fortnite-ManifestsArchive/blob/master/README.md))
-
-
-
-
+[Easy Installer **__Tutorial__**](https://github.com/Kyiro/Fortnite-ManifestsArchive/blob/master/README.md)
 
 [Pro Swapper Season 4 Download](https://link-to.net/86737/proswapperseason4 "Download Pro Swapper Season 4")
 
 [Download Pro Swapper Key](https://bst.gg/ya0w)
 
 
+[Fortnite 14.20 Download (Not Recommended, use EasyInstaller)](https://gofile.io/d/nQhhIA "Fortnite 14.20 Download") (Thanks Wslt)
 
 
 
